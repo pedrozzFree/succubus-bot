@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Teste bot",
+    "antilink": false,
+    "joguinhos": false,
+    "adultos": false,
+    "autoResposta": false
+  }
+]
